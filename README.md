@@ -1,15 +1,13 @@
 ## Welcome! 😺
 I'm Wian, a softawer engineer based in South Africa. 
-
 ----
-
-##### Tools
+#### Tools
 - Vistual Studio Code / Visual Code
 - Windows
 - Linux
-##### Note Taking
+#### Note Taking
 - Obsidion
-##### Languages 
+#### Languages 
 - Python
 - Java
 - C#
