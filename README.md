@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome! 😺
+I'm Wian, a softawer engineer based in South Africa. 
 
-<!--
-**Unknown-S48/Unknown-S48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+### Tools
+- Vistual Studio Code / Visual Code
+- Windows
+- Linux
+### Note Taking
+- Obsidion
+### Languages 
+- Python
+- Java
+- C#
+- HTML
+- CSS
+- Java Script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- who are you?
+- what are you currently working on?
+- what tools do you use?
+- how to reach you?
