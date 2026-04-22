@@ -8,11 +8,11 @@ I'm Wian, a softawer engineer based in South Africa.
 - Vistual Studio Code / Visual Code
 - Windows
 - Linux
-- 
+
 ### Note Taking
 
 - Obsidion
-- 
+
 ### Languages 
 
 - Python
