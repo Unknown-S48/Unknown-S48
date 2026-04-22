@@ -25,26 +25,3 @@ I’m Wian — a software engineer in South Africa who builds clean, efficient s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unknown-S48&show_icons=true&theme=bear)
 
 ---
-
-
-
-#### Tools
-- Vistual Studio Code / Visual Code
-- Windows
-- Linux
-#### Note Taking
-- Obsidion
-#### Languages 
-- Python
-- Java
-- C#
-- HTML
-- CSS
-- Java Script
-
-----
-
-- who are you?
-- what are you currently working on?
-- what tools do you use?
-- how to reach you?
