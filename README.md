@@ -3,24 +3,21 @@ I'm Wian, a softawer engineer based in South Africa.
 
 ----
 
-### Tools
-
+#### Tools
 - Vistual Studio Code / Visual Code
 - Windows
 - Linux
-
-### Note Taking
-
+#### Note Taking
 - Obsidion
-
-### Languages 
-
+#### Languages 
 - Python
 - Java
 - C#
 - HTML
 - CSS
 - Java Script
+
+----
 
 - who are you?
 - what are you currently working on?
