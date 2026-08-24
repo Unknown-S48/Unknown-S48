@@ -19,9 +19,3 @@ I’m Wian — a software engineer in South Africa who builds clean, efficient s
 <br />
 
 ---
-
-### Stats
-
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Unknown-S48&show_icons=true&theme=bear)   
-
----
