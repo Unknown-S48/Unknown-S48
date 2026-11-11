@@ -28,7 +28,6 @@ I’m Wian — a software engineer in South Africa who builds clean, efficient s
 ---
 
 ### 🚀 Experience & Education
-- 🏢 Recently worked as a **Junior Software Engineer at BitBarn**, building and testing RESTful APIs and designing front-end interfaces.
 - 🎓 Completed my **Occupational Certificates in Software Engineering** at CTU Stellenbosch (2026).
 - 💻 1000+ hours of hands-on programming experience.
 
