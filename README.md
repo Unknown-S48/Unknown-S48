@@ -27,14 +27,10 @@ I’m Wian — a software engineer in South Africa who builds clean, efficient s
 
 ---
 
-### 🚀 What I'm Currently Working On
-- 🏢 Working as a **Junior Software Engineer at BitBarn**, building and testing RESTful APIs and designing front-end interfaces.
-- 🎓 Finishing my **Occupational Certificates in Software Engineering** at CTU Stellenbosch (graduating 2026).
-
-### 🛠️ Featured Projects
-* **[Real-Time Voting Web Application](https://github.com/Unknown-S48)** - A web app allowing users to register, join groups, and vote with live real-time result tracking and a secure database. *(Java/SQL)*
-* **[Property Sales Website](https://github.com/Unknown-S48)** - A functional property listing website built from scratch in a collaborative team environment. *(HTML/CSS/JS)*
-* **[Personal Portfolio](https://unknown-s48.github.io/Portfolio/)** - My personal portfolio website showcasing my skills, projects, and resume. *(Web)*
+### 🚀 Experience & Education
+- 🏢 Recently worked as a **Junior Software Engineer at BitBarn**, building and testing RESTful APIs and designing front-end interfaces.
+- 🎓 Completed my **Occupational Certificates in Software Engineering** at CTU Stellenbosch (2026).
+- 💻 1000+ hours of hands-on programming experience.
 
 ---
 *📫 How to reach me: [wian.sandenbergh.2005@gmail.com](mailto:wian.sandenbergh.2005@gmail.com)*
