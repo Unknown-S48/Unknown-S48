@@ -1,7 +1,7 @@
 ## Welcome! 😺
 I’m Wian — a software engineer in South Africa who builds clean, efficient solutions and loves exploring the logic behind programming. I enjoy designing and shipping apps, and I’m into configuring and ricing Linux desktops (i've been using Linux on my laptop since middle 2025). I enjoy fully 100%ing games, hunting every achievement and finishing every side quest and I also draw in my free time. 
 
-🔗 **Check out my [Portfolio](https://unknown-s48.github.io/Portfolio/)!**
+🔗 **Check out my [Portfolio](https://wiansandenbergh.co.za)!**
 
 ---
 
